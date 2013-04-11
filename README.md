@@ -28,6 +28,9 @@ Page<br>
 Demo => http://dewadewa.16mb.com<br>
 Real Page => http://dewafiles.tk/<br>
 ----------------------------------------------------------------</br>
+----------------------------------------------------------------<br>
+Screen Shoot Image<br>
+----------------------------------------------------------------<br>
 <img src="http://images-onepick-opensocial.googleusercontent.com/gadgets/proxy?container=onepick&gadget=a&rewriteMime=image%2F*&url=http%3A%2F%2F3.bp.blogspot.com%2F-2h2Hl4ZFrbI%2FUSDTGgZdpYI%2FAAAAAAAAAkk%2FGDXnd0IUirk%2Fs1600%2FUpload-file-register.bmp"/><p>
 <img src="http://images-onepick-opensocial.googleusercontent.com/gadgets/proxy?container=onepick&gadget=a&rewriteMime=image%2F*&url=http%3A%2F%2F3.bp.blogspot.com%2F-THzEw2Va-XU%2FUSDTKlG5XxI%2FAAAAAAAAAks%2FKkUoNbaa1z8%2Fs1600%2FUpload-file-login.bmp"/><p>
 <img src="http://images-onepick-opensocial.googleusercontent.com/gadgets/proxy?container=onepick&gadget=a&rewriteMime=image%2F*&url=http%3A%2F%2F4.bp.blogspot.com%2F-6ZJa2mtGnYA%2FUSDTDhwn9jI%2FAAAAAAAAAkc%2FRwuexgmG8JI%2Fs1600%2FUpload-file-home.bmp"/><p>
