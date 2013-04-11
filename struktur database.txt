@@ -1,0 +1,4 @@
+anggota = id nama email pswd gender lahir photo online
+anggota = int varchar varchar varchar varchar varchar varchar varchar(1)
+
+file = id nama path komen size-varchar(7)  pemilik hits date
